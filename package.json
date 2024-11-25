@@ -19,6 +19,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bits-ui": "^0.21.16"
+		"bits-ui": "^0.21.16",
+		"scss": "^0.2.4"
 	}
 }
