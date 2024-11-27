@@ -4,9 +4,6 @@
 </script>
 
 <main>
-<aside class="sideBar">
-    <h1>Hej</h1>
-</aside>
 
 <section class="noteArea">
 
@@ -18,9 +15,7 @@
 
 
 <style lang="scss">
-aside {
- 
-}
+
 
 .noteArea {
  
