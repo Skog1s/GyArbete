@@ -5,14 +5,19 @@
 </script>
 
 <aside class="sideBar">
-    <h1>Hej</h1>
+    
+
+
 </aside>
 
 
 
 <style lang="scss">
 aside {
- 
+margin: 0;
+ background-color: grey;
+ width: 100%;
+ height: 100%;
 }
 
 

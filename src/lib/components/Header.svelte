@@ -4,6 +4,7 @@
 
 <header>
 
+    <button>&equiv;</button>
 
 </header>
 
@@ -14,7 +15,13 @@ header {
     height: 3.5rem;
     background-color: #44474b;
     margin: 0;
-    
+ 
+    button {
+        
+        border: none;
+        color: white;
+        background-color: transparent;
+    }
 }
 
 </style>

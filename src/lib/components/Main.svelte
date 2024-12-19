@@ -1,5 +1,8 @@
 <script>
+function createNote() {
 
+
+}
 
 </script>
 
@@ -7,7 +10,7 @@
 
 <section class="noteArea">
 
-<h2>Hallå</h2>
+<button id="create" on:click={createNote}>CREATE NOTE</button>
 
 </section>
 
@@ -15,10 +18,11 @@
 
 
 <style lang="scss">
-
-
 .noteArea {
  
+    button {
+        background-color: green;
+    }
 }
 
 </style>
