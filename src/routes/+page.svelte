@@ -25,6 +25,7 @@
         grid-row-gap: 0px;
         height: 100vh;
         width: 100;
+        margin: 0;
     }
 
     .header {

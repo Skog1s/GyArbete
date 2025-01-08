@@ -3,8 +3,7 @@
 </script>
 
 <header>
-
-    <button>&equiv;</button>
+    <button id="menuBtn">&equiv;</button>
 
 </header>
 
@@ -16,8 +15,8 @@ header {
     background-color: #44474b;
     margin: 0;
  
-    button {
-        
+    #menuBtn {
+   
         border: none;
         color: white;
         background-color: transparent;
