@@ -8,9 +8,9 @@
     <div id="buttonNav">
         <button>Anteckningar</button>
         <button>Påminnelser</button>
-        <button>Redigera etiketter</button>
-        <button>Arkiv</button>
-        <button>Papperskorgen</button>
+        <button>Edit</button>
+        <button>Archive</button>
+        <button>Trashcan</button>
 
 
     </div>
@@ -26,6 +26,10 @@ margin: 0;
  background-color: #44474b;
  width: 100%;
  height: 100%;
+}
+
+#buttonNav {
+    
 }
 
 
