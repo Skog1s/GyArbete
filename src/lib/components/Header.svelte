@@ -7,6 +7,10 @@
 
 </header>
 
+<img src="src/lib/img/logo.png" alt="icon">
+ <input type="text" placeholder="Search...">
+
+
 <style lang="scss">
 header {
     display: inline-block;
